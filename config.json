@@ -1,0 +1,127 @@
+{
+  "personal": {
+    "name": "Ganesh Anand Kumar C",
+    "age": 18,
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "country": "India",
+    "title": "Full-Stack Developer | Problem Solver | Tech Enthusiast",
+    "tagline": "Building amazing web experiences",
+    "status": "Available for Internships"
+  },
+  "contact": {
+    "email": "ganesh.contact@example.com",
+    "phone": "+91 XXXXXXXXXX",
+    "address": "Erode, Tamil Nadu, India"
+  },
+  "social": {
+    "github": "https://github.com/yourusername",
+    "linkedin": "https://linkedin.com/in/yourusername",
+    "twitter": "https://twitter.com/yourusername",
+    "instagram": "https://instagram.com/yourusername"
+  },
+  "skills": {
+    "frontend": [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "React",
+      "Responsive Design"
+    ],
+    "backend": [
+      "Node.js",
+      "Express.js",
+      "Python",
+      "REST APIs",
+      "SQL"
+    ],
+    "tools": [
+      "Git & GitHub",
+      "VS Code",
+      "MongoDB",
+      "Firebase",
+      "Docker"
+    ]
+  },
+  "projects": [
+    {
+      "id": 1,
+      "title": "Personal Portfolio",
+      "description": "A responsive portfolio website showcasing skills, projects, and experience built with HTML, CSS, and JavaScript.",
+      "icon": "fa-globe",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "link": "#"
+    },
+    {
+      "id": 2,
+      "title": "Todo Application",
+      "description": "A full-featured todo app with local storage, allowing users to create, edit, and manage their daily tasks efficiently.",
+      "icon": "fa-tasks",
+      "technologies": ["React", "LocalStorage", "CSS3"],
+      "link": "#"
+    },
+    {
+      "id": 3,
+      "title": "Weather App",
+      "description": "Real-time weather application using Weather API, displaying current weather and forecasts for multiple cities.",
+      "icon": "fa-weather-cloud",
+      "technologies": ["API", "JavaScript", "Bootstrap"],
+      "link": "#"
+    },
+    {
+      "id": 4,
+      "title": "E-Commerce Platform",
+      "description": "A basic e-commerce platform with product listing, shopping cart, and checkout functionality.",
+      "icon": "fa-store",
+      "technologies": ["Node.js", "MongoDB", "Express"],
+      "link": "#"
+    },
+    {
+      "id": 5,
+      "title": "Social Chat App",
+      "description": "Real-time messaging application with user authentication, chat rooms, and notifications.",
+      "icon": "fa-users",
+      "technologies": ["Firebase", "WebSocket", "React"],
+      "link": "#"
+    },
+    {
+      "id": 6,
+      "title": "Analytics Dashboard",
+      "description": "Data visualization dashboard displaying real-time analytics and insights with interactive charts.",
+      "icon": "fa-chart-bar",
+      "technologies": ["Chart.js", "JavaScript", "REST API"],
+      "link": "#"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Self-Taught Developer",
+      "period": "2024 - Present",
+      "description": "Learning full-stack web development through online courses and practical projects. Building projects to strengthen problem-solving skills."
+    },
+    {
+      "title": "High School",
+      "period": "2018 - Present",
+      "description": "Pursuing education while developing technical skills in programming and web development independently."
+    }
+  ],
+  "about": {
+    "biography": "I'm an 18-year-old developer from Erode with a passion for building web applications and solving complex problems.",
+    "bio_extended": "I love learning new technologies, collaborating with teams, and creating user-friendly applications that make a difference. When I'm not coding, you can find me reading tech blogs or contributing to open-source projects.",
+    "interests": [
+      "Web Development",
+      "Full-Stack Engineering",
+      "Open Source",
+      "Problem Solving",
+      "UI/UX Design"
+    ]
+  },
+  "theme": {
+    "primaryColor": "#6c63ff",
+    "secondaryColor": "#1f2933",
+    "accentColor": "#ff6584",
+    "lightBg": "#f8f9fa",
+    "textDark": "#2d3436",
+    "textLight": "#636e72"
+  }
+}
